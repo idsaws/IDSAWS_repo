@@ -6,4 +6,4 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-log "Hello World! You should try Chef with RightScale!"
+log "Hello World! You should try Chef with RightScale today!"
